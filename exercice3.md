@@ -12,7 +12,7 @@
 - "Evidemment !"
 * cat texte.txt
 6. jobs 37970
-7. couche 2 est la liaison  trame et ma couche 3 est le reseau paquet
+7. couche 2 est la liaison  "trame" et ma couche 3 est le reseau "paquet"
 8.
   * cd -> Set-Location
   * cp -> Copy-Item
